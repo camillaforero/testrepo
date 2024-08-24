@@ -1,2 +1,2 @@
 # testrepo
-This is my first repository and will be my test.
+This is my first repository.
